@@ -4,7 +4,7 @@ from appium.webdriver.common.touch_action import TouchAction
 from selenium.webdriver.common.by import By
 
 des_cap = {
-    "deviceName": "Galaxy On Max",
+    "deviceName": "Galaxy J7 Nxt",
     "platformName": "Android",
     "platformVersion": "8",
     "appPackage": "dragdrop.stufflex.com.dragdrop",
